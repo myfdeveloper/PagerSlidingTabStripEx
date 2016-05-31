@@ -21,6 +21,6 @@ android {
 
 dependencies {
     compile 'com.android.support:appcompat-v7:23.4.0'
-    compile project(':library')
-    //compile 'com.github.myfdeveloper:PagerSlidingTabStripEx:v0.1'
+    //compile project(':library')
+    compile 'com.github.myfdeveloper:PagerSlidingTabStripEx:v0.3'
 }

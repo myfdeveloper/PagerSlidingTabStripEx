@@ -7,6 +7,15 @@ Step 1. Add the JitPack repository to your build file
 gradle
 
 Add it in your root build.gradle at the end of repositories:
+```	
+buildscript {
+		...
+	    dependencies {
+	        ...
+	        classpath 'com.github.dcendents:android-maven-gradle-plugin:1.3'
+	    }
+	}
+```
 
 	allprojects {
 		repositories {
