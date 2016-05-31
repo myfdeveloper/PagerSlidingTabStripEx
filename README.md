@@ -1,6 +1,6 @@
 # PagerSlidingTabStripEx
 extend PagerSlidingTabStrip  
-[参考](https://github.com/astuetz/PagerSlidingTabStrip)
+[PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
 # Usage
 Step 1. Add the JitPack repository to your build file
 
